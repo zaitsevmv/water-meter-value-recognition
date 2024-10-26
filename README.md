@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/35db6335-ef6c-4d5e-b6e1-0f5347ffecf2)# water-meter-value-recognition
+# water-meter-value-recognition
 C++ OpenCV lib that detects digits on water meters
 
 # Detecting water meter
