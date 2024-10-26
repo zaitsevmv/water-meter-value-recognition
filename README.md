@@ -8,8 +8,11 @@ C++ OpenCV lib that detects digits on water meters
 ![image](https://github.com/user-attachments/assets/4b2a9d58-ebbd-4681-86aa-005f9bdafb07)
 
 Dataset: 1244 pictures
+
 TP (90% of digits inside circle): 1208
+
 Wrong circle: 23
+
 Nothing: 13
 
 # Detecting rectangle with digits
@@ -17,6 +20,7 @@ Nothing: 13
 ![image](https://github.com/user-attachments/assets/96d5952e-640b-4341-8ee7-da5f81ae87fb)
 
 FROC accuracy 0.065 (IoU=0.1)
+
 FROC accuracy 0.02 (IoU=0.2)
 
 # Recognising digits (using DenseNet_BiLSTM_CTC)
